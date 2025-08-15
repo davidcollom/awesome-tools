@@ -9,13 +9,13 @@
 
 ## Repositories
 
-- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) — ⭐ 40925 · Apache-2.0 · `csv`, `diagrams`, `graph`, `json`, `nextjs` — ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) — ⭐ 40926 · Apache-2.0 · `csv`, `diagrams`, `graph`, `json`, `nextjs` — ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) — ⭐ 6863 · MIT · `aws`, `azure`, `ci`, `compliance`, `devops` — Tfsec is now part of Trivy
 - [backup/backup](https://github.com/backup/backup) — ⭐ 4860 · MIT · `backup`, `database`, `encryption`, `mongodb`, `mysql` — Easy full stack backup operations on UNIX-like systems.
 - [busser/tfautomv](https://github.com/busser/tfautomv) — ⭐ 843 · Apache-2.0 · `block`, `golang`, `hacktoberfest`, `move`, `refactor` — Generate Terraform moved blocks automatically for painless refactoring
 - [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) — ⭐ 3559 · MIT · `cluster`, `gke`, `hacktoberfest`, `k8s`, `kube` — Easily check your clusters for use of deprecated APIs
 - [infracost/infracost](https://github.com/infracost/infracost) — ⭐ 11719 · Apache-2.0 · `aws`, `azure`, `cloud`, `cloud-cost-estimates`, `cost-estimation` — Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
-- [komodorio/validkube](https://github.com/komodorio/validkube) — ⭐ 822 · Apache-2.0 · `aws`, `aws-lambda`, `golang`, `kubernetes`, `kubeval` — ValidKube combines the best open-source tools to help ensure Kubernetes YAML best practices, hygiene & security.
+- [komodorio/validkube](https://github.com/komodorio/validkube) — ⭐ 823 · Apache-2.0 · `aws`, `aws-lambda`, `golang`, `kubernetes`, `kubeval` — ValidKube combines the best open-source tools to help ensure Kubernetes YAML best practices, hygiene & security.
 - [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) — ⭐ 4308 · Apache-2.0 · `cloud-native`, `dashboard`, `debugging`, `devops`, `headlamp` — A Kubernetes web UI that is fully-featured, user-friendly and extensible
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) — ⭐ 11461 · Apache-2.0 · `amqp`, `cloud-native`, `devops`, `devops-tools`, `docker` — The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and clusters. Inspired by Wireshark, purposely built for Kubernetes
 
