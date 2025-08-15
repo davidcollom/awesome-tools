@@ -1,8 +1,8 @@
-# Awesome Kubernetes FinOps Tools
+# Awesome Tools
 
 ![badge](https://img.shields.io/badge/awesome-yes-brightgreen) 
 
-> Tools & samples for cost-efficient/FinOps K8s.
+> A currated list Day to Day tools I find super awesome and helpful
 
 ## Table of Contents
 - [Repositories](#repositories)
