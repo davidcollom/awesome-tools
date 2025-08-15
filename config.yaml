@@ -1,7 +1,7 @@
 version: 1
 user: "davidcollom"
 lists:
-  - slug: "finops-tools" # taken from /stars/<user>/lists/<slug>
+  - slug: "tools" # taken from /stars/<user>/lists/<slug>
     title: "Awesome Kubernetes FinOps Tools"
     tagline: "Tools & samples for cost-efficient/FinOps K8s."
     min_stars: 10
