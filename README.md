@@ -1,25 +1,31 @@
 # Awesome Tools
-
-![badge](https://img.shields.io/badge/awesome-yes-brightgreen) 
-
+  
+![badge](https://img.shields.io/badge/awesome-yes-brightgreen)
+  
 > A currated list Day to Day tools I find super awesome and helpful
-
+  
 ## Table of Contents
+  
 - [Repositories](#repositories)
-
-## Repositories
-
-- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) — ⭐ 40925 · Apache-2.0 · `csv`, `diagrams`, `graph`, `json`, `nextjs` — ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) — ⭐ 6863 · MIT · `aws`, `azure`, `ci`, `compliance`, `devops` — Tfsec is now part of Trivy
-- [backup/backup](https://github.com/backup/backup) — ⭐ 4860 · MIT · `backup`, `database`, `encryption`, `mongodb`, `mysql` — Easy full stack backup operations on UNIX-like systems.
-- [busser/tfautomv](https://github.com/busser/tfautomv) — ⭐ 843 · Apache-2.0 · `block`, `golang`, `hacktoberfest`, `move`, `refactor` — Generate Terraform moved blocks automatically for painless refactoring
-- [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) — ⭐ 3559 · MIT · `cluster`, `gke`, `hacktoberfest`, `k8s`, `kube` — Easily check your clusters for use of deprecated APIs
-- [infracost/infracost](https://github.com/infracost/infracost) — ⭐ 11719 · Apache-2.0 · `aws`, `azure`, `cloud`, `cloud-cost-estimates`, `cost-estimation` — Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
-- [komodorio/validkube](https://github.com/komodorio/validkube) — ⭐ 822 · Apache-2.0 · `aws`, `aws-lambda`, `golang`, `kubernetes`, `kubeval` — ValidKube combines the best open-source tools to help ensure Kubernetes YAML best practices, hygiene & security.
-- [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) — ⭐ 4308 · Apache-2.0 · `cloud-native`, `dashboard`, `debugging`, `devops`, `headlamp` — A Kubernetes web UI that is fully-featured, user-friendly and extensible
-- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) — ⭐ 11461 · Apache-2.0 · `amqp`, `cloud-native`, `devops`, `devops-tools`, `docker` — The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and clusters. Inspired by Wireshark, purposely built for Kubernetes
-
-
+  
+### Repositories
+  
+- [komodorio/validkube](https://github.com/komodorio/validkube) — ⭐ 836 · Apache-2.0 — ValidKube combines the best open-source tools to help ensure Kubernetes YAML best practices, hygiene \& security.
+- [infracost/infracost](https://github.com/infracost/infracost) — ⭐ 12,608 · Apache-2.0 — Cloud cost intelligence for engineers, AI coding agents, and CI/CD 💰📉 Shift FinOps Left\!
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) — ⭐ 44,587 · Apache-2.0 — ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) — ⭐ 7,059 · MIT — Tfsec is now part of Trivy
+- [backup/backup](https://github.com/backup/backup) — ⭐ 4,859 · MIT — Easy full stack backup operations on UNIX-like systems.
+- [busser/tfautomv](https://github.com/busser/tfautomv) — ⭐ 899 · Apache-2.0 — Generate Terraform moved blocks automatically for painless refactoring
+- [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) — ⭐ 3,698 · MIT — Easily check your clusters for use of deprecated APIs
+- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) — ⭐ 12,131 · Apache-2.0 — eBPF-powered network observability for Kubernetes. Indexes L4/L7 traffic with full K8s context, decrypts TLS without keys. Queryable by AI agents via MCP and humans via dashboard.
+- [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) — ⭐ 7,564 · Apache-2.0 — A Kubernetes web UI that is fully-featured, user-friendly and extensible
+- [gobackup/gobackup](https://github.com/gobackup/gobackup) — ⭐ 3,087 · MIT — 🗄 CLI tool for backup your databases, files to cloud storages in schedully.
+- [nektos/act](https://github.com/nektos/act) — ⭐ 72,550 · MIT — Run your GitHub Actions locally 🚀
+- [caarlos0/svu](https://github.com/caarlos0/svu) — ⭐ 882 · MIT — semantic version utility
+- [karol-broda/snitch](https://github.com/karol-broda/snitch) — ⭐ 3,520 · MIT — a prettier way to inspect network connections
+- [vince-riv/argo-diff](https://github.com/vince-riv/argo-diff) — ⭐ 62 · Apache-2.0 — Go application that provides Github Pull Request comments to preview live Kubernetes manifest changes managed by ArgoCD
+- [deckrun/dockadvisor](https://github.com/deckrun/dockadvisor) — ⭐ 226 · Apache-2.0 — Lightweight Dockerfile linter that helps you write better Dockerfiles. Get instant feedback with quality scores, security checks, and 60+ best practice rules.
+- [TableProApp/TablePro](https://github.com/TableProApp/TablePro) — ⭐ 6,369 · AGPL-3.0 — Free and open source database client built natively for developers
+  
 ---
-
-*Generated by `awesomegen`.*
+*Generated by [awesomegen](https://github.com/davidcollom/awesomegen).*
